@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sophie-and-james.jacksstudio.co.uk/sitemap.xml
